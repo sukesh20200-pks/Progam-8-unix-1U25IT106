@@ -21,4 +21,4 @@ cp "$TMP_DIR/file1.txt" "$TMP_DIR/documents/"
 cp "$TMP_DIR/file1.txt" "$TMP_DIR/file2.txt" "$TMP_DIR/documents/"
 
 # 4. Copy a directory recursively
-cp -r "$TMP_DIR/source_dir" "$TMP_DIR/backup_dir
+cp -r "$TMP_DIR/source_dir" "$TMP_DIR/backup_dir"
